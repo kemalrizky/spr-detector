@@ -1,6 +1,5 @@
 # SPR Detector Firmware
 
-# Introduction
 This firmare is used by the Surface Plasmon Resonance Detector. This detector could engineer the system so that the SPR phenomenon can occur and be observed. 
 
 Some features that it has are the following:
